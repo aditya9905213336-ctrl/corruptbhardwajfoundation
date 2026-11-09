@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aditya9905213336-ctrl.github.io/corruptbhardwajfoundation/sitemap.xml
